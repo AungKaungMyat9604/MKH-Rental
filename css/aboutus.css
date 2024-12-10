@@ -1,0 +1,25 @@
+h3,
+h2 {
+  font-family: Agbalumo;
+}
+
+body {
+  background-color: rgb(179, 185, 189);
+}
+
+.breadcrumb-item a {
+  text-decoration: underline;
+  color: rgb(33, 37, 41);
+  font-size: large;
+  font-weight: 600;
+}
+
+.breadcrumb {
+  margin-top: 50px;
+}
+.dropdown-item:hover {
+  background-color: #f8f9fa;
+  /* Light gray background */
+  color: #007bff;
+  /* Bootstrap primary color for text */
+}
